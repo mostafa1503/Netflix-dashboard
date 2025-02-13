@@ -1,1 +1,1 @@
-This dashboard shows detailed information about orders for a certain company such as Tax amount, total due , number of orders , order quantity and so on
+An interactive Power BI dashboard analyzing Netflix content distribution. It provides insights into the number of shows per director, movies vs. series count, yearly content additions, and the number of shows per country through dynamic visuals and KPIs.
